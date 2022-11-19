@@ -1,4 +1,4 @@
-# Part6: Yuchen Wang Worked with Katrina Ji
+# Part6: Yuchen Wang Worked with Katrina Ji & Ryan Zhang
 
 ---
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2b
